@@ -22,3 +22,5 @@ billionaires used for wealth and trend analysis.
 
 ## Author
 Adetunji Adewale Henry
+<img width="1347" height="696" alt="Coffee Dashboard" src="https://github.com/user-attachments/assets/936fe8e0-f4d2-4c6e-b39f-74fd6b93b82d" />
+
